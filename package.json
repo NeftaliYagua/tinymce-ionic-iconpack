@@ -1,0 +1,25 @@
+{
+  "name": "tinymce-ionic-iconpack",
+  "version": "1.0.0",
+  "description": "The Tiny Skins and Icon Packs lets you quickly give TinyMCE a new look. Just choose one of our pre-made skins and icon packs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeftaliYagua/tinymce-ionic-iconpack.git"
+  },
+  "keywords": [
+    "tinymce",
+    "ionic",
+    "icons",
+    "pack"
+  ],
+  "author": "Neftalí Yagua <despacho@neftaliyagua.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/NeftaliYagua/tinymce-ionic-iconpack/issues"
+  },
+  "homepage": "https://github.com/NeftaliYagua/tinymce-ionic-iconpack#readme"
+}
